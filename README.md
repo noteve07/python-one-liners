@@ -3,9 +3,10 @@
 # 🐍 Python One-Liners
 
 Welcome to **Python One-Liners**!  
-This repository is a collection of codes that I wrote for fun at the end of my 11th Grade. While most have little practical use, they were a great way to boost my problem-solving skills and deepen my understanding of Python syntax.
+This repository is a collection of codes that I wrote for fun at the end of my 11th Grade. While most have little practical use, they were a great way to boost my problem-solving skills and deepen my understanding of Python syntax. 
 
 no semicolons ;)
+
 ---
 
 ## 🚀 What You'll Find
