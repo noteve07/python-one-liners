@@ -1,5 +1,3 @@
-# Python One-liners
-
 # 🐍 Python One-Liners
 
 Welcome to **Python One-Liners**!  
